@@ -9,7 +9,7 @@ The input data arrived in a specific format:
 
 Example:
 
-John Doe, [true, false, false, true, true]
+John Doe, [true, false, false, true, true]<br />
 Jane Smith, []
 
 Notably, an empty list of availability would imply "true" for all days.
