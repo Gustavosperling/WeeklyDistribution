@@ -22,7 +22,7 @@ By venturing into both frontend and backend development, I aimed to deepen my un
 
 ### Links
 
-- Live Site URL: (https://gustavo-sperling-rps-game.netlify.app/)
+- Live Site URL: ()
 
 ### Built with
 
@@ -47,7 +47,6 @@ Overall, this project provided me with valuable hands-on experience and helped m
 
 ### Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+Gustavo Sperling
 
 
