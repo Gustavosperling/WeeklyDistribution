@@ -99,8 +99,10 @@ body {
 #output-text {
     position: absolute;
     font-family: sans-serif;
-    margin-top: 1%;
-    margin-left: 1%;
+    padding-left: 1%;
+    width: 50%;
+    height: 40%;
+    overflow: auto;
 }
 
 #input-string {
@@ -112,11 +114,10 @@ body {
     width: 50%;
     height: 40%;
     border-radius: 8px;
+    padding: 1%;
 }
 
 ::placeholder {
     position: absolute;
     font-size: large;
-    margin-top: 1%;
-    margin-left: 1%;
 }
