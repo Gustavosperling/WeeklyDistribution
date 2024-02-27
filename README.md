@@ -20,9 +20,9 @@ While this code could function efficiently within a terminal environment, I chos
 
 By venturing into both frontend and backend development, I aimed to deepen my understanding of how these components synergize to deliver a cohesive user experience.
 
-### Links
+### Screenshot
 
-- Live Site URL: ()
+![Main screen](images/weekly-distribution-main.jpg)
 
 ### Built with
 
